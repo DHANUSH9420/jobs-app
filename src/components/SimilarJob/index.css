@@ -1,0 +1,16 @@
+.list {
+  display: flex;
+  list-style-type: none;
+  flex-direction: column;
+  padding-left: 6px;
+  padding-right: 6px;
+  padding-bottom: 6px;
+  padding-top: 6px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  background-color: #7e858e;
+  border-radius: 8px;
+  border: none;
+  width: 100%;
+}
